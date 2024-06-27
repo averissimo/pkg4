@@ -14,5 +14,5 @@
 #   Test Package:              'Ctrl + Shift + T'
 
 hello <- function() {
-  print("Hello, world! from pkg4")
+  print("Hello, world! from pkg4 yuppii")
 }
